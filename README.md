@@ -1,6 +1,6 @@
 # ocr_for_contacts_list
 
-| ![examples of screenshots to extract info from](example_git_hub/.png "examples of screenshots to extract info from")  | 
+| ![examples of screenshots to extract info from](data/example_git_hub.png "examples of screenshots to extract info from")  | 
 |:--:| 
 | *examples of screenshots to extract info from* |
 
@@ -37,7 +37,7 @@ extracted list:
 - automate the **cropping** to keep relevant info (need to set the parameters manually)
 - save these images in the `"/data"` directory
 
-| ![cropped image = input of OCR](cropped_example_git_hub/.png "cropped image = input of OCR")  | 
+| ![cropped image = input of OCR](cropped_example_git_hub.png "cropped image = input of OCR")  | 
 |:--:| 
 | *cropped image = input of OCR* |
 
